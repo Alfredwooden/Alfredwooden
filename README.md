@@ -2,9 +2,9 @@
 
 ## Frontend developer and also a Halfling who rides barbarians in DnD 🎲🧙‍♂️
 
-- 🌱 I'm Learning everything I can 🤣
-- 🥅 My 2020 Goals: be more active on github
-- ⚡️ Fact: I'm a big fan of videogames 🕹, and I spend almost all my time on them 😜
+ - 🌱 I'm Learning everything I can 🤣
+ - 🥅 My 2020 Goals: be more active on github
+ - ⚡️ Fact: I'm a big fan of videogames 🕹, and I spend almost all my time on them 😜
 
 <br />
 
