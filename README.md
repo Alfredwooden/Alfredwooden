@@ -16,8 +16,11 @@
 [<img align='left' alt='twitter' width='64px' src='https://img.icons8.com/clouds/100/000000/twitter.png' />][twitter]
 [<img align='left' alt='instagram' width='64px' src='https://img.icons8.com/clouds/100/000000/instagram-new--v1.png' />][instagram]
 
+
+
 <br />
-<br />
+
+
 
 ### Languages & tools 👨‍💻
 
@@ -35,15 +38,10 @@
 
 <br />
 
----
-
-<br />
-
 <!-- GITHUB STATS https://github.com/anuraghazra/github-readme-stats -->
 <img align="left" alt="Alfredwooden's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alfredwooden&show_icons=true&hide_border=true" />
 
 
-<br />
 <br />
 <!-- LINKS -->
 
