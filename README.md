@@ -37,9 +37,9 @@
 
 <br />
 
----
+[![Alfredwooden's github stats](https://github-readme-stats.vercel.app/api?username=Alfredwooden)](https://github.com/Alfredwooden/github-readme-stats)
 
-<img align="left" alt="Alfredwooden's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alfredwooden&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="Alfredwooden's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alfredwooden&show_icons=true&hide_border=true" /> -->
 
 
 <!-- GITHUB STATS https://github.com/anuraghazra/github-readme-stats -->
