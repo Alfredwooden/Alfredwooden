@@ -2,18 +2,18 @@
 
 ## Frontend developer and also a Halfling who rides barbarians in DnD 🎲🧙‍♂️
 
-- 🌱   Learning everything I can 🤣
-- 🥅   2020 Goals: be more active on github
-- ⚡️   I'm a big fan of videogames 🕹, and I spend almost all my time on them 😜
+- 🌱 I'm Learning everything I can 🤣
+- 🥅 My 2020 Goals: be more active on github
+- ⚡️ Fact: I'm a big fan of videogames 🕹, and I spend almost all my time on them 😜
 
 <br />
 
 ### Connect with me 👋
 
-[<img align='left' alt='website' width='32px' src='https://img.icons8.com/clouds/100/000000/domain.png' />][website]
-[<img align='left' alt='linkedin' width='32px' src='https://img.icons8.com/clouds/100/000000/linkedin.png' />][linkedin]
-[<img align='left' alt='twitter' width='32px' src='https://img.icons8.com/clouds/100/000000/twitter.png' />][twitter]
-[<img align='left' alt='instagram' width='32px' src='https://img.icons8.com/clouds/100/000000/instagram-new--v1.png' />][instagram]
+[<img align='left' alt='website' width='64px' src='https://img.icons8.com/clouds/100/000000/domain.png' />][website]
+[<img align='left' alt='linkedin' width='64px' src='https://img.icons8.com/clouds/100/000000/linkedin.png' />][linkedin]
+[<img align='left' alt='twitter' width='64px' src='https://img.icons8.com/clouds/100/000000/twitter.png' />][twitter]
+[<img align='left' alt='instagram' width='64px' src='https://img.icons8.com/clouds/100/000000/instagram-new--v1.png' />][instagram]
 
 <br />
 
