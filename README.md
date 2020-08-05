@@ -16,11 +16,10 @@
 [<img align='left' alt='twitter' width='64px' src='https://img.icons8.com/clouds/100/000000/twitter.png' />][twitter]
 [<img align='left' alt='instagram' width='64px' src='https://img.icons8.com/clouds/100/000000/instagram-new--v1.png' />][instagram]
 
-
-
 <br />
-
-
+<br />
+<br />
+<br />
 
 ### Languages & tools 👨‍💻
 
