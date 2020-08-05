@@ -1,12 +1,12 @@
-# Hi there 👋. I'm Alfred.
+### Hi there 👋. I'm Alfred.
 
 <br />
 
 ## Frontend developer and also a Halfling who rides barbarians in DnD 🎲🧙‍♂️
 
-- 🌱    Learning everything I can 🤣
-- 🥅    2020 Goals: be more active on github
-- ⚡️    I'm a big fan of videogames 🕹, and I spend almost all my time on them 😜
+- 🌱   Learning everything I can 🤣
+- 🥅   2020 Goals: be more active on github
+- ⚡️   I'm a big fan of videogames 🕹, and I spend almost all my time on them 😜
 
 <br />
 
@@ -39,19 +39,19 @@
 <br />
 <!-- LINKS -->
 
-[website]: 'https://www.theycallmealfred.com/'
-[twitter]: 'https://twitter.com/Alfredwooden'
-[linkedin]: 'www.linkedin.com/in/alfredwooden'
-[instagram]: 'https://www.instagram.com/alfredwooden/'
+[website]: https://www.theycallmealfred.com/
+[twitter]: https://twitter.com/Alfredwooden
+[linkedin]: www.linkedin.com/in/alfredwooden
+[instagram]: https://www.instagram.com/alfredwooden/
 
-[VS]: 'https://code.visualstudio.com/'
-[HTML]: 'https://developer.mozilla.org/en-US/docs/Web/HTML'
-[CSS]: 'https://developer.mozilla.org/en-US/docs/Web/CSS'
-[SASS]: 'https://sass-lang.com/'
-[JS]: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript'
-[TS]: 'https://www.typescriptlang.org/'
-[Angular]: 'https://angular.io/'
-[NS]: 'https://nativescript.org/'
-[Git]: 'https://git-scm.com/'
-[Github]: 'https://github.com/'
-[Terminal]: 'https://help.ubuntu.com/community/UsingTheTerminal'
+[VS]: https://code.visualstudio.com/
+[HTML]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[SASS]: https://sass-lang.com/
+[JS]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[TS]: https://www.typescriptlang.org/
+[Angular]: https://angular.io/
+[NS]: https://nativescript.org/
+[Git]: https://git-scm.com/
+[Github]: https://github.com/
+[Terminal]: https://help.ubuntu.com/community/UsingTheTerminal
