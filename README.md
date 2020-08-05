@@ -1,7 +1,5 @@
 ### Hi there 👋. I'm Alfred.
 
-<br />
-
 ## Frontend developer and also a Halfling who rides barbarians in DnD 🎲🧙‍♂️
 
 - 🌱   Learning everything I can 🤣
