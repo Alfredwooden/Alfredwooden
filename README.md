@@ -1,9 +1,8 @@
 # Hello stranger, I'm Alfred. 👋 
 
-### Frontend developer and also a halfling who rides barbarians in D&D 🎲🧙‍♂️
+### Frontend developer and also a halfling who rides barbarians in D&D 🎲 🧙‍♂️
 
  - 🌱- I'm Learning everything I can 🤣.
- - 🥅 - My 2022 Goals: be more active on github.
  - 🗺 - Currently living in Argentina.
  - ⚡️ - Fact: I'm a big fan of videogames 🕹, and I spend almost all my time on them 😜.
 
