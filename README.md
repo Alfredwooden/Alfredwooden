@@ -3,8 +3,8 @@
 ### Frontend developer and also a halfling who rides barbarians in D&D 🎲 🧙‍♂️
 
  - 🌱- I'm Learning everything I can 🤣.
- - 🗺 - Currently living in Argentina.
- - ⚡️ - Fact: I'm a big fan of videogames 🕹, and I spend almost all my time on them 😜.
+ - 🗺 - Currently living in New Zealand.
+ - ⚡️ - Fact: I'm a big fan of videogames 🕹, and I spend almost all my free time on them 😜.
 
 <br />
 
