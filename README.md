@@ -1,26 +1,27 @@
-# Hello stranger, I'm Alfred. 👋 
+# Hello, I'm Alfred! 👋 
 
-### Frontend developer and also a halfling who rides barbarians in D&D 🎲 🧙‍♂️
+I'm a frontend developer with a passion for coding, gaming, and the mystical world of Dungeons & Dragons (D&D) 🎲 🧙‍♂️.
 
- - 🌱- I'm Learning everything I can 🤣.
- - 🗺 - Currently living in New Zealand.
- - ⚡️ - Fact: I'm a big fan of videogames 🕹, and I spend almost all my free time on them 😜.
+## About Me
 
-<br />
+- 💻 I'm always on a quest to learn and master new skills and technologies.
+- 🌏 I'm currently adventuring in the beautiful landscapes of New Zealand.
+- 🎮 Fun fact: I'm a hardcore videogame enthusiast. If I'm not coding, you'll find me immersed in a virtual world.
 
-### Connect with me 👋
+## Connect With Me
+
+If you'd like to chat about code, games, or D&D, feel free to connect with me through the following platforms:
 
 [<img align='left' alt='website' width='64px' src='https://img.icons8.com/clouds/100/000000/domain.png' />][website]
 [<img align='left' alt='linkedin' width='64px' src='https://img.icons8.com/clouds/100/000000/linkedin.png' />][linkedin]
 [<img align='left' alt='twitter' width='64px' src='https://img.icons8.com/clouds/100/000000/twitter.png' />][twitter]
 [<img align='left' alt='instagram' width='64px' src='https://img.icons8.com/clouds/100/000000/instagram-new--v1.png' />][instagram]
 
-<br />
-<br />
-<br />
-<br />
+<br clear="left" />
 
-### Languages & tools 👨‍💻
+## Languages & Tools
+
+These are some of the languages and tools that I frequently use in my quests:
 
 [<img align='left' alt='Visual Studio Code' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png' />][VS]
 [<img align='left' alt='HTML' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' />][HTML]
@@ -34,16 +35,14 @@
 [<img align='left' alt='Github' width='32px' src='https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png' />][Github]
 [<img align='left' alt='Terminal' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png' />][Terminal]
 
-<br />
-<br />
-<br />
-<br />
+<br clear="left" />
 
-<!-- GITHUB STATS https://github.com/anuraghazra/github-readme-stats -->
+## GitHub Stats
+
+Here's an overview of my activity on GitHub:
+
 <img align="left" alt="Alfredwooden's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alfredwooden&show_icons=true&hide_border=true" />
 
-
-<br />
 <!-- LINKS -->
 
 [website]: https://www.theycallmealfred.com/
@@ -62,3 +61,4 @@
 [Git]: https://git-scm.com/
 [Github]: https://github.com/
 [Terminal]: https://help.ubuntu.com/community/UsingTheTerminal
+
