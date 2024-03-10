@@ -1,64 +1,106 @@
-# Hello, I'm Alfred! 👋 
+<h1 align="left">Hola, Im Alfredo!</h1>
 
-I'm a frontend developer with a passion for coding, gaming, and the mystical world of Dungeons & Dragons (D&D) 🎲 🧙‍♂️.
+###
 
-## About Me
+<p align="left">Frontend development isn't just my job; it's where my passions for creativity, problem-solving, and technology intersect. Whether it’s crafting user interfaces with React and Angular or styling with advanced CSS (SCSS), I’m all about building seamless, engaging web experiences.<br><br>As a hobby, I also dive into the world of video game development using Unity, blending my technical skills with my love for gaming to bring new ideas to life.</p>
 
-- 💻 I'm always on a quest to learn and master new skills and technologies.
-- 🌏 I'm currently adventuring in the beautiful landscapes of New Zealand.
-- 🎮 Fun fact: I'm a hardcore videogame enthusiast. If I'm not coding, you'll find me immersed in a virtual world.
+###
 
-## Connect With Me
+<h2 align="left">What's on my radar? 🛠️</h2>
 
-If you'd like to chat about code, games, or D&D, feel free to connect with me through the following platforms:
+###
 
-[<img align='left' alt='website' width='64px' src='https://img.icons8.com/clouds/100/000000/domain.png' />][website]
-[<img align='left' alt='linkedin' width='64px' src='https://img.icons8.com/clouds/100/000000/linkedin.png' />][linkedin]
-[<img align='left' alt='twitter' width='64px' src='https://img.icons8.com/clouds/100/000000/twitter.png' />][twitter]
-[<img align='left' alt='instagram' width='64px' src='https://img.icons8.com/clouds/100/000000/instagram-new--v1.png' />][instagram]
+<p align="left">Currently, I’m pouring my energy into a project close to my heart: a framework-agnostic design system built with web components. It's designed for flexibility across themes, powered by multi-dimensional tokens, aiming to streamline design coherence and efficiency.</p>
 
-<br clear="left" />
+###
 
-## Languages & Tools
+<p align="left">Outside of work, I'm diving into the world of video game development. Blending my love for gaming with my professional skills, I'm on a path to creating my own game.</p>
 
-These are some of the languages and tools that I frequently use in my quests:
+###
 
-[<img align='left' alt='Visual Studio Code' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png' />][VS]
-[<img align='left' alt='HTML' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' />][HTML]
-[<img align='left' alt='CSS' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' />][CSS]
-[<img align='left' alt='SASS' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png' />][SASS]
-[<img align='left' alt='Javascript' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' />][JS]
-[<img align='left' alt='Typescript' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png' />][TS]
-[<img align='left' alt='Angular' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png' />][Angular]
-[<img align='left' alt='Nativescript' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nativescript/nativescript.png' />][NS]
-[<img align='left' alt='GIT' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' />][Git]
-[<img align='left' alt='Github' width='32px' src='https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png' />][Github]
-[<img align='left' alt='Terminal' width='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png' />][Terminal]
+<h2 align="left">How do I stay sharp? 📚</h2>
 
-<br clear="left" />
+###
 
-## GitHub Stats
+<p align="left">My curiosity keeps me on my toes. From scouring Medium posts and tech blogs to following insightful YouTube channels, I’m always on the lookout for new ideas and technologies and something new to try out.</p>
 
-Here's an overview of my activity on GitHub:
+###
 
-<img align="left" alt="Alfredwooden's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alfredwooden&show_icons=true&hide_border=true" />
+<h2 align="left">Passions and Hobbies: 🎮🧙</h2>
 
-<!-- LINKS -->
+###
 
-[website]: https://www.theycallmealfred.com/
-[twitter]: https://twitter.com/Alfredwooden
-[linkedin]: www.linkedin.com/in/alfredwooden
-[instagram]: https://www.instagram.com/alfredwooden/
+<p align="left">Beyond code, my life is rich with hobbies that keep the creative juices flowing. Yes, I’m a self-proclaimed geek – a hardcore video game enthusiast and a fan of the mystical realms of Dungeons & Dragons.</p>
 
-[VS]: https://code.visualstudio.com/
-[HTML]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[SASS]: https://sass-lang.com/
-[JS]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[TS]: https://www.typescriptlang.org/
-[Angular]: https://angular.io/
-[NS]: https://nativescript.org/
-[Git]: https://git-scm.com/
-[Github]: https://github.com/
-[Terminal]: https://help.ubuntu.com/community/UsingTheTerminal
+###
 
+<h2 align="left">Work Philosophy: 💼</h2>
+
+###
+
+<p align="left">I thrive in environments that blend flexibility with connection. An advocate for the hybrid work model, I cherish the option to collaborate in person as much as I value the focus and comfort of working from home.</p>
+
+###
+
+<h2 align="left">At My Core: 🌟</h2>
+
+###
+
+<p align="left">Having worked with diverse teams across various companies, I pride myself on being open-minded and adaptable. These experiences have not only shaped my technical skills but also my approach to challenges, fostering a unique perspective on solving problems.</p>
+
+###
+
+<h2 align="left">Connect with Me:</h2>
+
+###
+
+<p align="left">I'm always open to discussing tech, design systems, or the latest game release. Let's connect!</p>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/alfredwooden" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Alfredwooden" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Alfredwooden&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
