@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="left">Hola, Im Alfredo!</h1>
+<h1 align="left">Hola, Im Alfredo! 👋</h1>
 
 ###
 
