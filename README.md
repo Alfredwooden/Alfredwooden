@@ -150,7 +150,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfredwooden)](https://github.com/anuraghazra/github-readme-stats  />
+  ![Alfredwooden's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredwooden&show_icons=true&theme=transparent)
 </div>
 
 ###
