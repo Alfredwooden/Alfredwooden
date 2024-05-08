@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="www.linkedin.com/in/alfredwooden" target="_blank">
+  <a href="https://www.linkedin.com/in/alfredwooden" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/Alfredwooden" target="_blank">
@@ -144,7 +144,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Alfredwooden&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alfredwooden&theme=transparent" alt="GitHub Streak" /></a>
 </div>
 
 ###
